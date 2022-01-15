@@ -13,4 +13,4 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?7username=LucasFDias)](https://github.com/LucasFDias/github-readme-stats)
+[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?7username=LucasFDias)](https://github.com/LucasFDias/)
