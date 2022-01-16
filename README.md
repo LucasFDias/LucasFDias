@@ -25,10 +25,8 @@
 
   
 </div>
- 
-<div style='display: inline-block'><br>
-  <i class="devicon-javascript-plain colored"></i>
-</div>
+  
+  <i class="devicon-javascript-plain colored"></i> 
   
   ## Highlights
 
