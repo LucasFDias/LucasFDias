@@ -22,12 +22,13 @@
   <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&layout=compact'/>
 </div>
   
-<div style='display: inline_block'><br>
-  <i class="devicon-javascript-plain colored"></i>
+
   
 </div>
  
-
+<div style='display: inline-block'><br>
+  <i class="devicon-javascript-plain colored"></i>
+</div>
   
   ## Highlights
 
