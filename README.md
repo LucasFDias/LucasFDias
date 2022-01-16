@@ -33,6 +33,8 @@
       <img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
   </div> 
+    ##
   <div>
-  <a href="https://www.linkedin.com/in/lucas-dias-26348198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    
+  <a href="https://www.linkedin.com/in/lucas-dias-26348198/" ><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
