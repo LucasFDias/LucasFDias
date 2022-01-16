@@ -17,7 +17,7 @@
   <a href='https://github.com/LucasFDias'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=LucasFDias&show_icons=true&theme=radical'/>
  
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/pin/?username=LucasFDias&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats'/>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api/pin/?username=LucasFDias&repo=github-readme-stats'/>
 </div>
 
  
