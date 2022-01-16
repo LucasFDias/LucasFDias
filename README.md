@@ -35,7 +35,8 @@
 
 
   </div> 
-    ##
+  <hr/>
+<p></p>
   <div>
     
   <a href="https://www.linkedin.com/in/lucas-dias-26348198/" target="_blank">
