@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-<hr/>
+##
 <p></p>
 <div>
   <a href='https://github.com/LucasFDias'>
