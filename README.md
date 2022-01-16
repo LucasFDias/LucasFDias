@@ -22,9 +22,13 @@
   <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&layout=compact'/>
 </div>
    
-  <div>
+  <div style="display: inline">
   <img style='width:40px; height: 40px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
   </div>
+  
+  
   ## Highlights
 
  
