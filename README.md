@@ -21,4 +21,9 @@
  
   <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&layout=compact'/>
 </div>
+  
+<div style='display: inline_block'><br>
+  <img align='center' alt='Lucas-JS' height='30' width='40' src='https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-plain.svg'>
+  
+</div>
  
