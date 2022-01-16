@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...-->
 
 <div>
-  <a href='https://github.com/LucasFDias'/>
+  <a href='https://github.com/LucasFDias'>
   <img height='180em' src='https://github.readme.stats.vercel.app/api?username=LucasFDias&show_icons=true&theme=dracula&include_all_Commits=true&count_private=true'/>
   <img height='180em' src='https://github.readme.stats.vercel.app/api/top_langs/?username=LucasFDias&layout=compact&theme=dracula&langs_count=168'/>
 </div>
