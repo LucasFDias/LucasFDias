@@ -21,13 +21,10 @@
  
   <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&layout=compact'/>
 </div>
-  
-
-  
-</div>
-  
-  <img style='width:40px; height: 40px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
+   
+  <div>
+  <img style='width:40px; height: 40px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div>
   ## Highlights
 
  
