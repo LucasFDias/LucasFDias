@@ -33,6 +33,5 @@
   <img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
   </div>
- ##
-  Linkedin
+ ## 
   <a href="" target=""_blank></a>
