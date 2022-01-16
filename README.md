@@ -23,7 +23,7 @@
 </div>
   
 <div style='display: inline_block'><br>
-  <img align='center' alt='Lucas-JS' height='30' width='40' src='https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-plain.svg'>
+  <i class="devicon-javascript-plain colored"></i>
   
 </div>
  
