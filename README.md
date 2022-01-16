@@ -32,6 +32,7 @@
       <img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
+  </div> 
+  <div>
+  <a src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/lucas-dias-26348198/" target="_blank" ></a>
   </div>
- ## 
-  <a href="" target=""_blank></a>
