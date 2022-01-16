@@ -34,10 +34,5 @@
 
 
   </div>
-  
-  
-  ## Highlights
-
  
-    </tr>
 </table>
