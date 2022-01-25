@@ -4,7 +4,7 @@
 **LucasFDias/LucasFDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Hoje trabalho com Front-End.
+- 🔭 Hoje trabalho com Desenvolvimento Web.
 - 🌱 Estudando React e Javascript
 - 😄 Pronouns: Ele/Dele
 <!--- 👯 I’m looking to collaborate on ...
