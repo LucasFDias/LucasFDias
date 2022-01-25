@@ -5,8 +5,7 @@
 -->
 
 - 🔭 Hoje trabalho com Desenvolvimento Web.
-- 🌱 Estudando React e Javascript
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando React e Javascript 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
