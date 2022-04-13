@@ -4,11 +4,12 @@
 **LucasFDias/LucasFDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Hoje trabalho com Desenvolvimento Web.
+- 🔭 Hoje trabalho com Desenvolvimento Front-End Fullstack.
 - 🌱 Estudando React e Javascript 
+- 💬 Pergunte-me algo!
+- 📫 Entre em contato: lucax.contato@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
