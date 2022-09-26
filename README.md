@@ -5,13 +5,9 @@
 -->
 
 - 🔭 Hoje trabalho com Desenvolvimento Front-End Fullstack.
-- 🌱 Estudando React e Javascript 
+- 🌱 Estudando React, React Native & TailwindCSS 
 - 💬 Pergunte-me algo!
 - 📫 Entre em contato: lucax.contato@gmail.com
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...-->
 
 ##  
 
