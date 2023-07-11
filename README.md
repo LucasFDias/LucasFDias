@@ -23,9 +23,9 @@
 ##
 <div>
   <a href='https://github.com/LucasFDias'>
-  <img height='250rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&show_icons=true&theme=radical'/>
+  <img height='200rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&show_icons=true&theme=radical'/>
  
-  <img height='250em' src='https://github-readme-stats.vercel.app/api/?username=LucasFDias&layout=donut&theme=radical'/>
+  <img height='200em' src='https://github-readme-stats.vercel.app/api/?username=LucasFDias&layout=donut&theme=radical'/>
 </div>
    
   ##
