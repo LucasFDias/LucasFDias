@@ -20,12 +20,11 @@
 <p></p>
 
 ##
-
 <div>
   <a href='https://github.com/LucasFDias'>
-  <img height='150em' src='https://github-readme-stats.vercel.app/api?username=LucasFDias&show_icons=true&theme=radical'/>
+  <img height='250rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&show_icons=true&theme=radical'/>
  
-  <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFDias&layout=compact'/>
+  <img height='250em' src='https://github-readme-stats.vercel.app/api/?username=LucasFDias&layout=donut&theme=radical'/>
 </div>
    
   ##
