@@ -1,9 +1,11 @@
-### Olá, me chamo Lucas Dias👋
+### Olá 👋, me chamo Lucas Dias!
+Sou desenvolvedor desde meus 18 anos, 
+meu foco atual esta sendo Front-end, mas também desenvolvo fullstack nas linguagens React.js e Node.js!
 
 <!--
 **LucasFDias/LucasFDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+ 
 - 🔭 Hoje trabalho com Desenvolvimento Front-End.
 - 🌱 Estudando React, React Native & TailwindCSS 
 - 💬 Pergunte-me algo!
