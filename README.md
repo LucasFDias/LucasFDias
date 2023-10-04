@@ -25,6 +25,9 @@ meu foco atual esta sendo Front-end, mas também desenvolvo fullstack nas lingua
   <a href="https://www.linkedin.com/in/lucas-dias-26348198/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30rem" target="_blank"/>
   </a>
+ <a href="https://vercel.com/lucasfdias" targer="_blank">
+  <img src="https://img.shields.io/badge/Vercel-0001B5?style=for-the-badge&logo=vercel&logoColor=black" height="30rem" target="_blank"/>
+ </a>
 </div>
 
 <p></p>
